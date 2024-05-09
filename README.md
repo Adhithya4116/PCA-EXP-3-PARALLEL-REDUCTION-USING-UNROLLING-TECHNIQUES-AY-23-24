@@ -386,4 +386,4 @@ int main(int argc, char **argv)
 ![Screenshot 2024-04-05 140518](https://github.com/Adhithya4116/PCA-EXP-3-PARALLEL-REDUCTION-USING-UNROLLING-TECHNIQUES-AY-23-24/assets/118707079/0a929433-1f9c-477a-8799-dc296a6f8051)
 
 ## RESULT:
-Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that _________ has executed with less elapsed time than _____________ with blocks_____,______.
+Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that 1048576 has executed with less elapsed time than 1048576 with blocks 2.73 ms,116.58 ms.
